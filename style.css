@@ -300,7 +300,7 @@ p{
     }
 
     .grid-container{
-    width: 450px;
+    max-width: 344px;
     margin-top: -10px;
     
     display: grid;
